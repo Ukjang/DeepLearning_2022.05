@@ -128,3 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 02.FCN/sonar.csv
+03.CNN/animal
+03.CNN/handwriting_shape
+03.CNN/hard_handwriting_shape
+03.CNN/animal.zip
+03.CNN/cats_and_dogs_filtered.zip
+03.CNN/handwriting_shape.zip
+03.CNN/hard_handwriting_shape.zip
