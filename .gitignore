@@ -136,3 +136,5 @@ dmypy.json
 03.CNN/handwriting_shape.zip
 03.CNN/hard_handwriting_shape.zip
 03.CNN/animals.zip
+04.RNN/ArticlesApril2018.csv
+04.RNN/my_util.py
